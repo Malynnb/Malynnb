@@ -75,8 +75,8 @@ Developed an automated data pipeline that collects external demand indicators fo
 **Key Skills**
 
 * Python • APIs • Web Scraping • SQLAlchemy • MySQL • ETL • Google Cloud
-* Collected weather, airport arrivals, and demographic data from multiple APIs
-* Designed a relational database and automated data loading
+* Collected weather, airport infrastructure, and city-level demographic data from multiple sources
+* Designed a relational database and automated data loading using SQLAlchemy
 * Extended the pipeline with a serverless Google Cloud Function, Cloud SQL, and Cloud Scheduler
 * Demonstrated an end-to-end data workflow from external data collection and transformation to cloud-based storage and automated execution
 
